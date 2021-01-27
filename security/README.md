@@ -1,0 +1,1 @@
+* [Double blind passwords](https://kaizoku.dev/double-blind-passwords-aka-horcruxing) where parts of password are stored in password manager and memorized by user, and the final password is combination of the two.
