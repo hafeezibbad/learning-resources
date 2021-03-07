@@ -14,6 +14,7 @@ For beginners, [30 days of Python](https://github.com/Asabeneh/30-Days-Of-Python
   A multi-part tutorial/course for building a SaaS (from scratch) using Flask and Docker. This course goes into detail about code, architecture, and libraries used during the course. The tutorial also provides enough information to have Docker up and running in local development setup. 
   This course is similar to [The Flask Megatutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg. 
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [Github](https://github.com/miguelgrinberg/microblog): A multi-part tutorial series offering in-depth understanding of `Flask` framework and how to create web applications using `Flask`. The author also covers application deployment solutions.
+* [Python hotexamples](https://python.hotexamples.com/) extracts examples from opensource projects about Python modules. 
 
 ## Static analysis
 * [Exhaustive checking with `mypy`](https://hakibenita.com/python-mypy-exhaustive-checking) explains how to catch unhandled branches at compile time using `mypy`.
